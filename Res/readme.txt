@@ -1,0 +1,1 @@
+In this folder is where you should drop the content files such as Audio and/or Image files.
