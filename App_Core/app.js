@@ -1,0 +1,1 @@
+window.alert("By continueing you are confirming that you are above the age of 21 to be viewing and playing this game.");
